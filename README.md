@@ -1,4 +1,5 @@
 [![cicd-goat](images/banner.png)](https://www.cidersecurity.io/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProUserd%2Fcicd-goat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FProUserd%2Fcicd-goat?ref=badge_shield)
 
 [![Maintained by Cider Security](https://img.shields.io/badge/maintained%20by-Cider%20Security-brightgreen)](https://www.cidersecurity.io/?utm_source=github&utm_medium=github_page&utm_campaign=ci%2fcd%20goat%20_060422)
 [![](https://img.shields.io/badge/Top%2010%20Risks-8%2F10-2de4fd)](https://www.cidersecurity.io/top-10-cicd-security-risks/?utm_source=github&utm_medium=github_page&utm_campaign=ci%2fcd%20goat_060422)
@@ -106,3 +107,7 @@ docker compose up -d
 
 ## Contributing
 See [Contributing](CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProUserd%2Fcicd-goat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FProUserd%2Fcicd-goat?ref=badge_large)
